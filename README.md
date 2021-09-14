@@ -1,3 +1,4 @@
+
 # wire-cutter-stripper
 As described. Based on design by Mr Innovative, adapted for OLED display and 4 button interface<br>
 https://www.youtube.com/watch?v=Jl6ZATZypAQ&ab_channel=MrInnovative<br>
@@ -15,5 +16,5 @@ BOM:<br>
 1x wire cutter-stripper (like this: https://www.amazon.com/gp/product/B00WJPRKIY/ref=ox_sc_saved_image_6?smid=ATVPDKIKX0DER&psc=1)<br>
 maybe a bearing, some ptfe tubing, and some other stuff.<br>
 
-you can see pics+video of mine over on my website:<br>
-https://www.wolfydiy.com/projects/wire-cutter-stripper-1<br>
+![IMG_4547 copy](https://user-images.githubusercontent.com/86013349/133288497-aca8a4e7-3935-4a24-b837-c117f2205bbf.jpg)
+![IMG_4548 copy](https://user-images.githubusercontent.com/86013349/133288506-ad512ce9-f4ab-4004-b072-a569eb796242.jpg)
